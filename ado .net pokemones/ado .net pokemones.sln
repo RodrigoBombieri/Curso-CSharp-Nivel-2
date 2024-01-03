@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemon1", "pokemon1\pokemon1.csproj", "{558D5987-2141-43B0-933E-D7B67FDCF4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominioP", "dominioP\dominioP.csproj", "{A3D11397-8D8A-4996-8D9A-2A02E82C76A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocioP", "negocioP\negocioP.csproj", "{2FC661A1-F41D-433A-BD98-8B4D7DD7EC17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558D5987-2141-43B0-933E-D7B67FDCF4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558D5987-2141-43B0-933E-D7B67FDCF4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558D5987-2141-43B0-933E-D7B67FDCF4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558D5987-2141-43B0-933E-D7B67FDCF4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D11397-8D8A-4996-8D9A-2A02E82C76A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D11397-8D8A-4996-8D9A-2A02E82C76A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D11397-8D8A-4996-8D9A-2A02E82C76A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D11397-8D8A-4996-8D9A-2A02E82C76A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC661A1-F41D-433A-BD98-8B4D7DD7EC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC661A1-F41D-433A-BD98-8B4D7DD7EC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC661A1-F41D-433A-BD98-8B4D7DD7EC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC661A1-F41D-433A-BD98-8B4D7DD7EC17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC825256-6F1D-4A4A-8B53-1EDC113E489D}
+	EndGlobalSection
+EndGlobal
